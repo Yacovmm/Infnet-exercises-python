@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed7b4789-f946-4623-b9ef-2153225620bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjetoPython/tp4/tp4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoPython/tp4/tp5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoPython/tp4/tp5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoPython/tp5/tp5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fundamentoPython/AssessmentFundamentosPython" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentoPython/AssessmentFundamentosPython" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fundamentoPython/AssessmentFundamentosPython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentoPython/AssessmentFundamentosPython/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fundamentoPython/Tp3" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentoPython/Tp3" afterDir="false" />
@@ -36,7 +36,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="15" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -44,6 +44,7 @@
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="14" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -75,10 +76,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjetoPython/tp4/tp5.py">
+        <entry file="file://$PROJECT_DIR$/ProjetoPython/tp5/tp5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+            <state relative-caret-position="2363">
+              <caret line="139" column="31" lean-forward="true" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -151,6 +152,7 @@
         <option value="$PROJECT_DIR$/ProjetoPython/tp2/exercise1.py" />
         <option value="$PROJECT_DIR$/ProjetoPython/tp2/exercise2.py" />
         <option value="$PROJECT_DIR$/ProjetoPython/tp4/tp4.py" />
+        <option value="$PROJECT_DIR$/ProjetoPython/tp5/tp5.py" />
       </list>
     </option>
   </component>
@@ -188,7 +190,7 @@
               <item name="InfnetTrabalhos" type="b2602c69:ProjectViewProjectNode" />
               <item name="InfnetTrabalhos" type="462c0819:PsiDirectoryNode" />
               <item name="ProjetoPython" type="462c0819:PsiDirectoryNode" />
-              <item name="tp4" type="462c0819:PsiDirectoryNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,12 +361,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12483221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24680851" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -374,7 +377,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32907802" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -470,10 +473,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetoPython/tp4/tp5.py">
+    <entry file="uml://Python/#D:/Projetos/ProjectsPython/InfnetTrabalhos/ProjetoPython/tp4/tp5.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#D:/Projetos/ProjectsPython/InfnetTrabalhos/ProjetoPython/tp4/tp5.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="652.0" y="211.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetoPython/tp5/tp5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+        <state relative-caret-position="2363">
+          <caret line="139" column="31" lean-forward="true" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

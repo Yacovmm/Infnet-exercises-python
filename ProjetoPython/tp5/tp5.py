@@ -3,7 +3,7 @@ import psutil
 import cpuinfo
 
 pygame.init()
-pygame.display.set_caption("--tp4 Projeto YacovR.--")
+pygame.display.set_caption("--tp5 Projeto YacovR.--")
 size = width, heitgh = 800, 600
 
 screen = pygame.display.set_mode(size)
