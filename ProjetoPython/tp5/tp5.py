@@ -2,14 +2,11 @@ import pygame
 import psutil
 import cpuinfo
 
-pygame.init()
-pygame.display.set_caption("--tp5 Projeto YacovR.--")
-size = width, heitgh = 800, 600
-
-screen = pygame.display.set_mode(size)
-# todo:  Obtém informações da CPU
 info_cpu = cpuinfo.get_cpu_info()
-cpuList = psutil.cpu_percent(interval=1, percpu=True)
+
+
+size = width, heitgh = 800, 600
+screen = pygame.display.set_mode(size)
 
 black = (0, 0, 0)
 white = (255, 255, 255)
@@ -35,8 +32,7 @@ s4 = pygame.surface.Surface((width, heitgh / 4))
 
 pygame.display.init()
 
-# todo: clock
-clock = pygame.time.Clock()
+
 # todo: initializing font
 pygame.font.init()
 font = pygame.font.Font(None, 32)
@@ -44,7 +40,15 @@ fontGrande = pygame.font.Font(None, 50)
 
 
 def main():
+    pygame.init()
+    pygame.display.set_caption("--tp5 Projeto YacovR.--")
+
     done = True
+    # todo:  Obtém informações da CPU
+    cpuList = psutil.cpu_percent(interval=1, percpu=True)
+
+    # todo: clock
+    clock = pygame.time.Clock()
     cont = 60
     while done:
         for event in pygame.event.get():
